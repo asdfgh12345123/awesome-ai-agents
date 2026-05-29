@@ -170,6 +170,15 @@ Pull requests welcome! Please follow the [contribution guidelines](CONTRIBUTING.
 
 ---
 
-**If you find this useful, consider [sponsoring me](https://github.com/sponsors/asdfgh12345123)!**
+## Support This Project
+
+If you find this useful, please consider supporting:
+
+- [GitHub Sponsors](https://github.com/sponsors/asdfgh12345123) (PayPal supported)
+- [Open Collective](https://opencollective.com/asdfgh12345123) (PayPal, Alipay supported)
+- [Buy Me a Coffee](https://buymeacoffee.com/asdfgh12345123) (PayPal supported)
+- [Patreon](https://www.patreon.com/asdfgh12345123) (PayPal supported)
+
+Every contribution helps keep these resources free and updated!
 
 *Last updated: 2026-05-29*
