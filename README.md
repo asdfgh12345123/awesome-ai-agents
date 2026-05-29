@@ -1,13 +1,19 @@
-# Awesome AI Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome AI Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of autonomous AI agents, frameworks, and tools. Updated weekly.
+> A curated list of AI agent frameworks, autonomous agents, coding agents, multi-agent systems, memory systems, and agent tooling.
 
-**100+ resources** for building AI agents. Star this repo to stay updated!
+Awesome AI Agents is a focused list for anyone exploring how AI agents are built, orchestrated, and evaluated. It is a companion repository for AI Tools Hub.
 
-[![GitHub Stars](https://img.shields.io/github/stars/asdfgh12345123/awesome-ai-agents?style=social)](https://github.com/asdfgh12345123/awesome-ai-agents)
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors/asdfgh12345123)
+## Main hub
 
----
+- Main site: https://asdfgh12345123.github.io/awesome-ai-tools/
+- AI Tools Directory: https://asdfgh12345123.github.io/awesome-ai-tools/tools/generated.html
+- AI Agents Guide: https://asdfgh12345123.github.io/awesome-ai-tools/guides/ai-agents-framework-comparison.html
+
+## Support this project
+
+- Ko-fi: https://ko-fi.com/aitoolshub
+- 爱发电: https://ifdian.net/a/aitoolshub
 
 ## Table of Contents
 - [Frameworks](#frameworks)
@@ -167,14 +173,3 @@ Pull requests welcome! Please follow the [contribution guidelines](CONTRIBUTING.
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
----
-
-## Support This Project
-
-If you find this useful, please consider supporting:
-
-**[Buy Me a Coffee on Ko-fi](https://ko-fi.com/aitoolshub)**
-
-Every contribution helps keep these resources free and updated!
-
