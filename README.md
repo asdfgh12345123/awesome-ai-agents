@@ -35,53 +35,53 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Frameworks
 | Name | Stars | Description |
 |------|-------|-------------|
-| [AutoGen](https://github.com/microsoft/autogen) | 30k+ | Multi-agent conversation framework by Microsoft |
-| [CrewAI](https://github.com/joaomdmoura/crewai) | 15k+ | Role-playing AI agent orchestration |
-| [LangGraph](https://github.com/langchain-ai/langgraph) | 5k+ | Stateful multi-actor LLM applications |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | 40k+ | Multi-agent framework for software development |
-| [ChatDev](https://github.com/OpenBMB/ChatDev) | 25k+ | Communicative agents for software development |
-| [CAMEL](https://github.com/camel-ai/camel) | 5k+ | Communicative Agents for Mind Exploration |
-| [AgentScope](https://github.com/modelscope/agentscope) | 3k+ | Flexible multi-agent platform |
-| [Swarm](https://github.com/openai/swarm) | 15k+ | Lightweight multi-agent orchestration |
-| [AG2](https://github.com/ag2ai/ag2) | 10k+ | Open-source AgentOS (formerly AutoGen) |
-| [Phidata](https://github.com/phidatahq/phidata) | 15k+ | Build AI Agents with memory |
-| [PydanticAI](https://github.com/pydantic/pydantic-ai) | 5k+ | Agent framework built on Pydantic |
-| [Smolagents](https://github.com/huggingface/smolagents) | 10k+ | Hugging Face agent framework |
-| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | 10k+ | Official OpenAI agent framework |
-| [Google ADK](https://github.com/google/adk-python) | 5k+ | Google Agent Development Kit |
-| [Mastra](https://github.com/mastra-ai/mastra) | 5k+ | TypeScript AI agent framework |
+| [AutoGen](https://github.com/microsoft/autogen) | 59k+ | Multi-agent conversation framework by Microsoft |
+| [CrewAI](https://github.com/joaomdmoura/crewai) | 53k+ | Role-playing AI agent orchestration |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | 34k+ | Stateful multi-actor LLM applications |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | 68k+ | Multi-agent framework for software development |
+| [ChatDev](https://github.com/OpenBMB/ChatDev) | 33k+ | Communicative agents for software development |
+| [CAMEL](https://github.com/camel-ai/camel) | 17k+ | Communicative Agents for Mind Exploration |
+| [AgentScope](https://github.com/modelscope/agentscope) | 26k+ | Flexible multi-agent platform |
+| [Swarm](https://github.com/openai/swarm) | 22k+ | Lightweight multi-agent orchestration |
+| [AG2](https://github.com/ag2ai/ag2) | 5k+ | Open-source AgentOS (formerly AutoGen) |
+| [Phidata](https://github.com/phidatahq/phidata) | 40k+ | Build AI Agents with memory |
+| [PydanticAI](https://github.com/pydantic/pydantic-ai) | 17k+ | Agent framework built on Pydantic |
+| [Smolagents](https://github.com/huggingface/smolagents) | 28k+ | Hugging Face agent framework |
+| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | 27k+ | Official OpenAI agent framework |
+| [Google ADK](https://github.com/google/adk-python) | 20k+ | Google Agent Development Kit |
+| [Mastra](https://github.com/mastra-ai/mastra) | 25k+ | TypeScript AI agent framework |
 
 ## Multi-Agent Systems
 | Name | Description |
 |------|-------------|
-| [AutoGen Studio](https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-studio) | No-code multi-agent builder |
-| [CrewAI Studio](https://github.com/crewAIInc/crewAI) | Visual agent workflow builder |
-| [AgentVerse](https://github.com/OpenBMB/AgentVerse) | Platform for multi-agent simulation |
-| [Generative Agents](https://github.com/joonspk-research/generative_agents) | Stanford's town simulation |
-| [Excalidraw AI](https://github.com/excalidraw/excalidraw) | Multi-agent whiteboard |
-| [ChatArena](https://github.com/Farama-Foundation/ChatArena) | Multi-agent language game environments |
+| [AutoGen Studio](https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-studio) | 59k+ |
+| [CrewAI Studio](https://github.com/crewAIInc/crewAI) | 53k+ |
+| [AgentVerse](https://github.com/OpenBMB/AgentVerse) | 5k+ |
+| [Generative Agents](https://github.com/joonspk-research/generative_agents) | 21k+ |
+| [Excalidraw AI](https://github.com/excalidraw/excalidraw) | 124k+ |
+| [ChatArena](https://github.com/Farama-Foundation/ChatArena) | 2k+ |
 
 ## Coding Agents
 | Name | Description |
 |------|-------------|
-| [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | Autonomous bug fixing agent |
-| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | Open-source AI developer |
-| [Sweep](https://github.com/sweepai/sweep) | AI Junior Developer |
-| [Aider](https://github.com/paul-gauthier/aider) | AI pair programming in terminal |
+| [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | 19k+ |
+| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | 76k+ |
+| [Sweep](https://github.com/sweepai/sweep) | 8k+ |
+| [Aider](https://github.com/paul-gauthier/aider) | 46k+ |
 | [Cursor](https://www.cursor.sh/) | AI-first code editor |
 | [GitHub Copilot](https://github.com/features/copilot) | AI pair programmer |
 | [Cody](https://sourcegraph.com/cody) | AI code assistant |
 | [Continue](https://continue.dev/) | Open-source AI code assistant |
-| [Devika](https://github.com/stitionai/devika) | AI software engineer |
-| [SWE-bench](https://github.com/princeton-nlp/SWE-bench) | Benchmark for coding agents |
+| [Devika](https://github.com/stitionai/devika) | 20k+ |
+| [SWE-bench](https://github.com/princeton-nlp/SWE-bench) | 5k+ |
 | [Devin](https://www.cognition-labs.com/introducing-devin) | First AI software engineer |
 | [Factory](https://factory.ai/) | Autonomous coding for enterprises |
 
 ## Research Agents
 | Name | Description |
 |------|-------------|
-| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | Autonomous research agent |
-| [Storm](https://github.com/stanford-oval/storm) | Wikipedia-style article generation |
+| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | 27k+ |
+| [Storm](https://github.com/stanford-oval/storm) | 28k+ |
 | [Elicit](https://elicit.com/) | AI research assistant |
 | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered paper search |
 | [Consensus](https://consensus.app/) | AI research search engine |
@@ -90,40 +90,40 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Web Agents
 | Name | Description |
 |------|-------------|
-| [Browser Use](https://github.com/browser-use/browser-use) | Make websites accessible for AI agents |
-| [Playwright](https://github.com/microsoft/playwright) | Browser automation |
-| [Puppeteer](https://github.com/puppeteer/puppeteer) | Chrome automation |
-| [Selenium](https://github.com/SeleniumHQ/selenium) | Web browser automation |
-| [LaVague](https://github.com/lavague-ai/LaVague) | Web agent framework |
+| [Browser Use](https://github.com/browser-use/browser-use) | 96k+ |
+| [Playwright](https://github.com/microsoft/playwright) | 90k+ |
+| [Puppeteer](https://github.com/puppeteer/puppeteer) | 94k+ |
+| [Selenium](https://github.com/SeleniumHQ/selenium) | 34k+ |
+| [LaVague](https://github.com/lavague-ai/LaVague) | 6k+ |
 | [WebArena](https://github.com/webarena-env/webarena) | Web agent benchmark |
 
 ## Autonomous Agents
 | Name | Description |
 |------|-------------|
-| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Autonomous GPT-4 agent |
-| [BabyAGI](https://github.com/yoheinakajima/babyagi) | Simple AGI experiment |
-| [AgentGPT](https://github.com/reworkd/AgentGPT) | Browser-based autonomous agent |
-| [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | Open-source autonomous agent |
-| [Voyager](https://github.com/MineDojo/Voyager) | LLM-powered lifelong learning agent |
+| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 185k+ |
+| [BabyAGI](https://github.com/yoheinakajima/babyagi) | 22k+ |
+| [AgentGPT](https://github.com/reworkd/AgentGPT) | 36k+ |
+| [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | 18k+ |
+| [Voyager](https://github.com/MineDojo/Voyager) | 7k+ |
 | [Ghost](https://github.com/EmergenceAI/Ghost) | Autonomous coding agent |
 
 ## Agent Memory
 | Name | Description |
 |------|-------------|
-| [Mem0](https://github.com/mem0ai/mem0) | Memory layer for AI agents |
-| [Zep](https://github.com/getzep/zep) | Long-term memory for AI assistants |
-| [LangMem](https://github.com/langchain-ai/langmem) | LangChain memory management |
-| [ChromaDB](https://github.com/chroma-core/chroma) | AI-native embedding database |
-| [Qdrant](https://github.com/qdrant/qdrant) | Vector similarity search |
+| [Mem0](https://github.com/mem0ai/mem0) | 57k+ |
+| [Zep](https://github.com/getzep/zep) | 5k+ |
+| [LangMem](https://github.com/langchain-ai/langmem) | 1k+ |
+| [ChromaDB](https://github.com/chroma-core/chroma) | 28k+ |
+| [Qdrant](https://github.com/qdrant/qdrant) | 32k+ |
 
 ## Agent Tools
 | Name | Description |
 |------|-------------|
-| [Composio](https://github.com/ComposioHQ/composio) | Tool integration for AI agents |
+| [Composio](https://github.com/ComposioHQ/composio) | 29k+ |
 | [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) | Tool library for LangChain |
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | Native tool use in OpenAI |
 | [Anthropic Tool Use](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Tool use in Claude |
-| [MCP Servers](https://github.com/modelcontextprotocol/servers) | Model Context Protocol servers |
+| [MCP Servers](https://github.com/modelcontextprotocol/servers) | 87k+ |
 | [Brave Search API](https://brave.com/search/api/) | Web search for agents |
 
 ## Tutorials
