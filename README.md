@@ -125,6 +125,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [Anthropic Tool Use](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Tool use in Claude |
 | [MCP Servers](https://github.com/modelcontextprotocol/servers) | 87k+ |
 | [Brave Search API](https://brave.com/search/api/) | Web search for agents |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Trust scoring for Solana AI agents via x402 micropayments |
 
 ## Tutorials
 - [Building AI Agents with LangChain](https://python.langchain.com/docs/modules/agents/)
