@@ -39,7 +39,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [CrewAI](https://github.com/joaomdmoura/crewai) | 54k+ | Role-playing AI agent orchestration |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | 35k+ | Stateful multi-actor LLM applications |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | 69k+ | Multi-agent framework for software development |
-| [ChatDev](https://github.com/OpenBMB/ChatDev) | 33k+ | Communicative agents for software development |
+| [ChatDev](https://github.com/OpenBMB/ChatDev) | 34k+ | Communicative agents for software development |
 | [CAMEL](https://github.com/camel-ai/camel) | 17k+ | Communicative Agents for Mind Exploration |
 | [AgentScope](https://github.com/modelscope/agentscope) | 27k+ | Flexible multi-agent platform |
 | [Swarm](https://github.com/openai/swarm) | 22k+ | Lightweight multi-agent orchestration |
@@ -58,16 +58,16 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [CrewAI Studio](https://github.com/crewAIInc/crewAI) | 54k+ |
 | [AgentVerse](https://github.com/OpenBMB/AgentVerse) | 5k+ |
 | [Generative Agents](https://github.com/joonspk-research/generative_agents) | 22k+ |
-| [Excalidraw AI](https://github.com/excalidraw/excalidraw) | 125k+ |
+| [Excalidraw AI](https://github.com/excalidraw/excalidraw) | 126k+ |
 | [ChatArena](https://github.com/Farama-Foundation/ChatArena) | 2k+ |
 
 ## Coding Agents
 | Name | Description |
 |------|-------------|
 | [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | 20k+ |
-| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | 77k+ |
+| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | 78k+ |
 | [Sweep](https://github.com/sweepai/sweep) | 8k+ |
-| [Aider](https://github.com/paul-gauthier/aider) | 46k+ |
+| [Aider](https://github.com/paul-gauthier/aider) | 47k+ |
 | [Cursor](https://www.cursor.sh/) | AI-first code editor |
 | [GitHub Copilot](https://github.com/features/copilot) | AI pair programmer |
 | [Cody](https://sourcegraph.com/cody) | AI code assistant |
@@ -81,7 +81,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | Name | Description |
 |------|-------------|
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | 28k+ |
-| [Storm](https://github.com/stanford-oval/storm) | 28k+ |
+| [Storm](https://github.com/stanford-oval/storm) | 29k+ |
 | [Elicit](https://elicit.com/) | AI research assistant |
 | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered paper search |
 | [Consensus](https://consensus.app/) | AI research search engine |
@@ -90,7 +90,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Web Agents
 | Name | Description |
 |------|-------------|
-| [Browser Use](https://github.com/browser-use/browser-use) | 99k+ |
+| [Browser Use](https://github.com/browser-use/browser-use) | 100k+ |
 | [Playwright](https://github.com/microsoft/playwright) | 91k+ |
 | [Puppeteer](https://github.com/puppeteer/puppeteer) | 95k+ |
 | [Selenium](https://github.com/SeleniumHQ/selenium) | 34k+ |
@@ -113,8 +113,8 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [Mem0](https://github.com/mem0ai/mem0) | 59k+ |
 | [Zep](https://github.com/getzep/zep) | 5k+ |
 | [LangMem](https://github.com/langchain-ai/langmem) | 2k+ |
-| [ChromaDB](https://github.com/chroma-core/chroma) | 28k+ |
-| [Qdrant](https://github.com/qdrant/qdrant) | 32k+ |
+| [ChromaDB](https://github.com/chroma-core/chroma) | 29k+ |
+| [Qdrant](https://github.com/qdrant/qdrant) | 33k+ |
 
 ## Agent Tools
 | Name | Description |
@@ -123,7 +123,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) | Tool library for LangChain |
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | Native tool use in OpenAI |
 | [Anthropic Tool Use](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Tool use in Claude |
-| [MCP Servers](https://github.com/modelcontextprotocol/servers) | 87k+ |
+| [MCP Servers](https://github.com/modelcontextprotocol/servers) | 88k+ |
 | [Brave Search API](https://brave.com/search/api/) | Web search for agents |
 
 ## Tutorials
