@@ -38,7 +38,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [AutoGen](https://github.com/microsoft/autogen) | 60k+ | Multi-agent conversation framework by Microsoft |
 | [CrewAI](https://github.com/joaomdmoura/crewai) | 56k+ | Role-playing AI agent orchestration |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | 38k+ | Stateful multi-actor LLM applications |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | 69k+ | Multi-agent framework for software development |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | 70k+ | Multi-agent framework for software development |
 | [ChatDev](https://github.com/OpenBMB/ChatDev) | 34k+ | Communicative agents for software development |
 | [CAMEL](https://github.com/camel-ai/camel) | 17k+ | Communicative Agents for Mind Exploration |
 | [AgentScope](https://github.com/modelscope/agentscope) | 28k+ | Flexible multi-agent platform |
@@ -46,10 +46,10 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [AG2](https://github.com/ag2ai/ag2) | 5k+ | Open-source AgentOS (formerly AutoGen) |
 | [Phidata](https://github.com/phidatahq/phidata) | 41k+ | Build AI Agents with memory |
 | [PydanticAI](https://github.com/pydantic/pydantic-ai) | 19k+ | Agent framework built on Pydantic |
-| [Smolagents](https://github.com/huggingface/smolagents) | 28k+ | Hugging Face agent framework |
+| [Smolagents](https://github.com/huggingface/smolagents) | 29k+ | Hugging Face agent framework |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | 28k+ | Official OpenAI agent framework |
 | [Google ADK](https://github.com/google/adk-python) | 21k+ | Google Agent Development Kit |
-| [Mastra](https://github.com/mastra-ai/mastra) | 26k+ | TypeScript AI agent framework |
+| [Mastra](https://github.com/mastra-ai/mastra) | 27k+ | TypeScript AI agent framework |
 
 ## Multi-Agent Systems
 | Name | Description |
@@ -65,7 +65,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | Name | Description |
 |------|-------------|
 | [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | 20k+ |
-| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | 81k+ |
+| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | 82k+ |
 | [Sweep](https://github.com/sweepai/sweep) | 8k+ |
 | [Aider](https://github.com/paul-gauthier/aider) | 48k+ |
 | [Cursor](https://www.cursor.sh/) | AI-first code editor |
@@ -80,7 +80,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Research Agents
 | Name | Description |
 |------|-------------|
-| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | 28k+ |
+| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | 29k+ |
 | [Storm](https://github.com/stanford-oval/storm) | 30k+ |
 | [Elicit](https://elicit.com/) | AI research assistant |
 | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered paper search |
@@ -90,8 +90,8 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Web Agents
 | Name | Description |
 |------|-------------|
-| [Browser Use](https://github.com/browser-use/browser-use) | 106k+ |
-| [Playwright](https://github.com/microsoft/playwright) | 93k+ |
+| [Browser Use](https://github.com/browser-use/browser-use) | 107k+ |
+| [Playwright](https://github.com/microsoft/playwright) | 94k+ |
 | [Puppeteer](https://github.com/puppeteer/puppeteer) | 95k+ |
 | [Selenium](https://github.com/SeleniumHQ/selenium) | 34k+ |
 | [LaVague](https://github.com/lavague-ai/LaVague) | 6k+ |
@@ -110,11 +110,11 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Agent Memory
 | Name | Description |
 |------|-------------|
-| [Mem0](https://github.com/mem0ai/mem0) | 61k+ |
+| [Mem0](https://github.com/mem0ai/mem0) | 62k+ |
 | [Zep](https://github.com/getzep/zep) | 5k+ |
 | [LangMem](https://github.com/langchain-ai/langmem) | 2k+ |
 | [ChromaDB](https://github.com/chroma-core/chroma) | 29k+ |
-| [Qdrant](https://github.com/qdrant/qdrant) | 33k+ |
+| [Qdrant](https://github.com/qdrant/qdrant) | 34k+ |
 
 ## Agent Tools
 | Name | Description |
