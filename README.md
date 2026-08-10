@@ -47,7 +47,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [Phidata](https://github.com/phidatahq/phidata) | 42k+ | Build AI Agents with memory |
 | [PydanticAI](https://github.com/pydantic/pydantic-ai) | 19k+ | Agent framework built on Pydantic |
 | [Smolagents](https://github.com/huggingface/smolagents) | 29k+ | Hugging Face agent framework |
-| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | 28k+ | Official OpenAI agent framework |
+| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | 29k+ | Official OpenAI agent framework |
 | [Google ADK](https://github.com/google/adk-python) | 21k+ | Google Agent Development Kit |
 | [Mastra](https://github.com/mastra-ai/mastra) | 27k+ | TypeScript AI agent framework |
 
@@ -65,7 +65,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | Name | Description |
 |------|-------------|
 | [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | 20k+ |
-| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | 83k+ |
+| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | 84k+ |
 | [Sweep](https://github.com/sweepai/sweep) | 8k+ |
 | [Aider](https://github.com/paul-gauthier/aider) | 48k+ |
 | [Cursor](https://www.cursor.sh/) | AI-first code editor |
@@ -90,7 +90,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Web Agents
 | Name | Description |
 |------|-------------|
-| [Browser Use](https://github.com/browser-use/browser-use) | 108k+ |
+| [Browser Use](https://github.com/browser-use/browser-use) | 109k+ |
 | [Playwright](https://github.com/microsoft/playwright) | 94k+ |
 | [Puppeteer](https://github.com/puppeteer/puppeteer) | 95k+ |
 | [Selenium](https://github.com/SeleniumHQ/selenium) | 34k+ |
@@ -110,7 +110,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Agent Memory
 | Name | Description |
 |------|-------------|
-| [Mem0](https://github.com/mem0ai/mem0) | 62k+ |
+| [Mem0](https://github.com/mem0ai/mem0) | 63k+ |
 | [Zep](https://github.com/getzep/zep) | 5k+ |
 | [LangMem](https://github.com/langchain-ai/langmem) | 2k+ |
 | [ChromaDB](https://github.com/chroma-core/chroma) | 29k+ |
