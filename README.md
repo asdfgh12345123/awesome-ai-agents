@@ -50,6 +50,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | 29k+ | Official OpenAI agent framework |
 | [Google ADK](https://github.com/google/adk-python) | 21k+ | Google Agent Development Kit |
 | [Mastra](https://github.com/mastra-ai/mastra) | 27k+ | TypeScript AI agent framework |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | 1.4k+ | Local-first desktop platform for Commander-led multi-agent coordination |
 
 ## Multi-Agent Systems
 | Name | Description |
