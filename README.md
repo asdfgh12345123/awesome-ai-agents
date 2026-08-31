@@ -37,19 +37,19 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 |------|-------|-------------|
 | [AutoGen](https://github.com/microsoft/autogen) | 61k+ | Multi-agent conversation framework by Microsoft |
 | [CrewAI](https://github.com/joaomdmoura/crewai) | 58k+ | Role-playing AI agent orchestration |
-| [LangGraph](https://github.com/langchain-ai/langgraph) | 40k+ | Stateful multi-actor LLM applications |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | 41k+ | Stateful multi-actor LLM applications |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | 70k+ | Multi-agent framework for software development |
 | [ChatDev](https://github.com/OpenBMB/ChatDev) | 34k+ | Communicative agents for software development |
 | [CAMEL](https://github.com/camel-ai/camel) | 18k+ | Communicative Agents for Mind Exploration |
-| [AgentScope](https://github.com/modelscope/agentscope) | 29k+ | Flexible multi-agent platform |
+| [AgentScope](https://github.com/modelscope/agentscope) | 30k+ | Flexible multi-agent platform |
 | [Swarm](https://github.com/openai/swarm) | 22k+ | Lightweight multi-agent orchestration |
 | [AG2](https://github.com/ag2ai/ag2) | 5k+ | Open-source AgentOS (formerly AutoGen) |
 | [Phidata](https://github.com/phidatahq/phidata) | 42k+ | Build AI Agents with memory |
-| [PydanticAI](https://github.com/pydantic/pydantic-ai) | 19k+ | Agent framework built on Pydantic |
+| [PydanticAI](https://github.com/pydantic/pydantic-ai) | 20k+ | Agent framework built on Pydantic |
 | [Smolagents](https://github.com/huggingface/smolagents) | 29k+ | Hugging Face agent framework |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | 29k+ | Official OpenAI agent framework |
 | [Google ADK](https://github.com/google/adk-python) | 21k+ | Google Agent Development Kit |
-| [Mastra](https://github.com/mastra-ai/mastra) | 27k+ | TypeScript AI agent framework |
+| [Mastra](https://github.com/mastra-ai/mastra) | 28k+ | TypeScript AI agent framework |
 
 ## Multi-Agent Systems
 | Name | Description |
@@ -58,16 +58,16 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [CrewAI Studio](https://github.com/crewAIInc/crewAI) | 58k+ |
 | [AgentVerse](https://github.com/OpenBMB/AgentVerse) | 5k+ |
 | [Generative Agents](https://github.com/joonspk-research/generative_agents) | 22k+ |
-| [Excalidraw AI](https://github.com/excalidraw/excalidraw) | 130k+ |
+| [Excalidraw AI](https://github.com/excalidraw/excalidraw) | 131k+ |
 | [ChatArena](https://github.com/Farama-Foundation/ChatArena) | 2k+ |
 
 ## Coding Agents
 | Name | Description |
 |------|-------------|
 | [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | 20k+ |
-| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | 85k+ |
+| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | 86k+ |
 | [Sweep](https://github.com/sweepai/sweep) | 8k+ |
-| [Aider](https://github.com/paul-gauthier/aider) | 48k+ |
+| [Aider](https://github.com/paul-gauthier/aider) | 49k+ |
 | [Cursor](https://www.cursor.sh/) | AI-first code editor |
 | [GitHub Copilot](https://github.com/features/copilot) | AI pair programmer |
 | [Cody](https://sourcegraph.com/cody) | AI code assistant |
@@ -90,9 +90,9 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Web Agents
 | Name | Description |
 |------|-------------|
-| [Browser Use](https://github.com/browser-use/browser-use) | 110k+ |
+| [Browser Use](https://github.com/browser-use/browser-use) | 112k+ |
 | [Playwright](https://github.com/microsoft/playwright) | 95k+ |
-| [Puppeteer](https://github.com/puppeteer/puppeteer) | 95k+ |
+| [Puppeteer](https://github.com/puppeteer/puppeteer) | 96k+ |
 | [Selenium](https://github.com/SeleniumHQ/selenium) | 34k+ |
 | [LaVague](https://github.com/lavague-ai/LaVague) | 6k+ |
 | [WebArena](https://github.com/webarena-env/webarena) | Web agent benchmark |
