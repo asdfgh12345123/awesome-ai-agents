@@ -124,6 +124,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | Native tool use in OpenAI |
 | [Anthropic Tool Use](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Tool use in Claude |
 | [MCP Servers](https://github.com/modelcontextprotocol/servers) | 90k+ |
+| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console |
 | [Brave Search API](https://brave.com/search/api/) | Web search for agents |
 
 ## Tutorials
