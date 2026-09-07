@@ -41,7 +41,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [MetaGPT](https://github.com/geekan/MetaGPT) | 70k+ | Multi-agent framework for software development |
 | [ChatDev](https://github.com/OpenBMB/ChatDev) | 34k+ | Communicative agents for software development |
 | [CAMEL](https://github.com/camel-ai/camel) | 18k+ | Communicative Agents for Mind Exploration |
-| [AgentScope](https://github.com/modelscope/agentscope) | 30k+ | Flexible multi-agent platform |
+| [AgentScope](https://github.com/modelscope/agentscope) | 31k+ | Flexible multi-agent platform |
 | [Swarm](https://github.com/openai/swarm) | 22k+ | Lightweight multi-agent orchestration |
 | [AG2](https://github.com/ag2ai/ag2) | 5k+ | Open-source AgentOS (formerly AutoGen) |
 | [Phidata](https://github.com/phidatahq/phidata) | 42k+ | Build AI Agents with memory |
@@ -90,8 +90,8 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Web Agents
 | Name | Description |
 |------|-------------|
-| [Browser Use](https://github.com/browser-use/browser-use) | 112k+ |
-| [Playwright](https://github.com/microsoft/playwright) | 95k+ |
+| [Browser Use](https://github.com/browser-use/browser-use) | 113k+ |
+| [Playwright](https://github.com/microsoft/playwright) | 96k+ |
 | [Puppeteer](https://github.com/puppeteer/puppeteer) | 96k+ |
 | [Selenium](https://github.com/SeleniumHQ/selenium) | 34k+ |
 | [LaVague](https://github.com/lavague-ai/LaVague) | 6k+ |
@@ -110,7 +110,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Agent Memory
 | Name | Description |
 |------|-------------|
-| [Mem0](https://github.com/mem0ai/mem0) | 64k+ |
+| [Mem0](https://github.com/mem0ai/mem0) | 65k+ |
 | [Zep](https://github.com/getzep/zep) | 5k+ |
 | [LangMem](https://github.com/langchain-ai/langmem) | 2k+ |
 | [ChromaDB](https://github.com/chroma-core/chroma) | 29k+ |
