@@ -106,6 +106,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | 18k+ |
 | [Voyager](https://github.com/MineDojo/Voyager) | 7k+ |
 | [Ghost](https://github.com/EmergenceAI/Ghost) | Autonomous coding agent |
+| [Solgrok](https://github.com/LMajster/sgrok) | Autonomous 24/7 Solana creator-ops agent that promotes and manages a Bags.fm token to maximize creator fees |
 
 ## Agent Memory
 | Name | Description |
