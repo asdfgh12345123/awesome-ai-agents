@@ -36,9 +36,9 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | Name | Stars | Description |
 |------|-------|-------------|
 | [AutoGen](https://github.com/microsoft/autogen) | 61k+ | Multi-agent conversation framework by Microsoft |
-| [CrewAI](https://github.com/joaomdmoura/crewai) | 58k+ | Role-playing AI agent orchestration |
+| [CrewAI](https://github.com/joaomdmoura/crewai) | 59k+ | Role-playing AI agent orchestration |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | 42k+ | Stateful multi-actor LLM applications |
-| [MetaGPT](https://github.com/geekan/MetaGPT) | 70k+ | Multi-agent framework for software development |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | 71k+ | Multi-agent framework for software development |
 | [ChatDev](https://github.com/OpenBMB/ChatDev) | 34k+ | Communicative agents for software development |
 | [CAMEL](https://github.com/camel-ai/camel) | 18k+ | Communicative Agents for Mind Exploration |
 | [AgentScope](https://github.com/modelscope/agentscope) | 32k+ | Flexible multi-agent platform |
@@ -47,7 +47,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [Phidata](https://github.com/phidatahq/phidata) | 42k+ | Build AI Agents with memory |
 | [PydanticAI](https://github.com/pydantic/pydantic-ai) | 20k+ | Agent framework built on Pydantic |
 | [Smolagents](https://github.com/huggingface/smolagents) | 29k+ | Hugging Face agent framework |
-| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | 29k+ | Official OpenAI agent framework |
+| [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | 30k+ | Official OpenAI agent framework |
 | [Google ADK](https://github.com/google/adk-python) | 22k+ | Google Agent Development Kit |
 | [Mastra](https://github.com/mastra-ai/mastra) | 28k+ | TypeScript AI agent framework |
 
@@ -55,17 +55,17 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | Name | Description |
 |------|-------------|
 | [AutoGen Studio](https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-studio) | 61k+ |
-| [CrewAI Studio](https://github.com/crewAIInc/crewAI) | 58k+ |
+| [CrewAI Studio](https://github.com/crewAIInc/crewAI) | 59k+ |
 | [AgentVerse](https://github.com/OpenBMB/AgentVerse) | 5k+ |
 | [Generative Agents](https://github.com/joonspk-research/generative_agents) | 22k+ |
-| [Excalidraw AI](https://github.com/excalidraw/excalidraw) | 132k+ |
+| [Excalidraw AI](https://github.com/excalidraw/excalidraw) | 133k+ |
 | [ChatArena](https://github.com/Farama-Foundation/ChatArena) | 2k+ |
 
 ## Coding Agents
 | Name | Description |
 |------|-------------|
 | [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | 20k+ |
-| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | 88k+ |
+| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | 89k+ |
 | [Sweep](https://github.com/sweepai/sweep) | 8k+ |
 | [Aider](https://github.com/paul-gauthier/aider) | 49k+ |
 | [Cursor](https://www.cursor.sh/) | AI-first code editor |
@@ -80,7 +80,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Research Agents
 | Name | Description |
 |------|-------------|
-| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | 29k+ |
+| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | 30k+ |
 | [Storm](https://github.com/stanford-oval/storm) | 31k+ |
 | [Elicit](https://elicit.com/) | AI research assistant |
 | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered paper search |
@@ -90,10 +90,10 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Web Agents
 | Name | Description |
 |------|-------------|
-| [Browser Use](https://github.com/browser-use/browser-use) | 115k+ |
+| [Browser Use](https://github.com/browser-use/browser-use) | 116k+ |
 | [Playwright](https://github.com/microsoft/playwright) | 96k+ |
 | [Puppeteer](https://github.com/puppeteer/puppeteer) | 96k+ |
-| [Selenium](https://github.com/SeleniumHQ/selenium) | 34k+ |
+| [Selenium](https://github.com/SeleniumHQ/selenium) | 35k+ |
 | [LaVague](https://github.com/lavague-ai/LaVague) | 6k+ |
 | [WebArena](https://github.com/webarena-env/webarena) | Web agent benchmark |
 
@@ -110,7 +110,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Agent Memory
 | Name | Description |
 |------|-------------|
-| [Mem0](https://github.com/mem0ai/mem0) | 65k+ |
+| [Mem0](https://github.com/mem0ai/mem0) | 66k+ |
 | [Zep](https://github.com/getzep/zep) | 5k+ |
 | [LangMem](https://github.com/langchain-ai/langmem) | 2k+ |
 | [ChromaDB](https://github.com/chroma-core/chroma) | 29k+ |
@@ -123,7 +123,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) | Tool library for LangChain |
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | Native tool use in OpenAI |
 | [Anthropic Tool Use](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Tool use in Claude |
-| [MCP Servers](https://github.com/modelcontextprotocol/servers) | 90k+ |
+| [MCP Servers](https://github.com/modelcontextprotocol/servers) | 91k+ |
 | [Brave Search API](https://brave.com/search/api/) | Web search for agents |
 
 ## Tutorials
