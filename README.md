@@ -46,7 +46,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [AG2](https://github.com/ag2ai/ag2) | 5k+ | Open-source AgentOS (formerly AutoGen) |
 | [Phidata](https://github.com/phidatahq/phidata) | 42k+ | Build AI Agents with memory |
 | [PydanticAI](https://github.com/pydantic/pydantic-ai) | 20k+ | Agent framework built on Pydantic |
-| [Smolagents](https://github.com/huggingface/smolagents) | 29k+ | Hugging Face agent framework |
+| [Smolagents](https://github.com/huggingface/smolagents) | 30k+ | Hugging Face agent framework |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | 30k+ | Official OpenAI agent framework |
 | [Google ADK](https://github.com/google/adk-python) | 22k+ | Google Agent Development Kit |
 | [Mastra](https://github.com/mastra-ai/mastra) | 28k+ | TypeScript AI agent framework |
@@ -81,7 +81,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | Name | Description |
 |------|-------------|
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | 30k+ |
-| [Storm](https://github.com/stanford-oval/storm) | 31k+ |
+| [Storm](https://github.com/stanford-oval/storm) | 32k+ |
 | [Elicit](https://elicit.com/) | AI research assistant |
 | [Semantic Scholar](https://www.semanticscholar.org/) | AI-powered paper search |
 | [Consensus](https://consensus.app/) | AI research search engine |
@@ -90,8 +90,8 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Web Agents
 | Name | Description |
 |------|-------------|
-| [Browser Use](https://github.com/browser-use/browser-use) | 116k+ |
-| [Playwright](https://github.com/microsoft/playwright) | 96k+ |
+| [Browser Use](https://github.com/browser-use/browser-use) | 117k+ |
+| [Playwright](https://github.com/microsoft/playwright) | 97k+ |
 | [Puppeteer](https://github.com/puppeteer/puppeteer) | 96k+ |
 | [Selenium](https://github.com/SeleniumHQ/selenium) | 35k+ |
 | [LaVague](https://github.com/lavague-ai/LaVague) | 6k+ |
@@ -100,7 +100,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Autonomous Agents
 | Name | Description |
 |------|-------------|
-| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187k+ |
+| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 188k+ |
 | [BabyAGI](https://github.com/yoheinakajima/babyagi) | 22k+ |
 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 36k+ |
 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | 18k+ |
