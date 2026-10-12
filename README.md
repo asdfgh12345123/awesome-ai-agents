@@ -36,7 +36,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | Name | Stars | Description |
 |------|-------|-------------|
 | [AutoGen](https://github.com/microsoft/autogen) | 61k+ | Multi-agent conversation framework by Microsoft |
-| [CrewAI](https://github.com/joaomdmoura/crewai) | 59k+ | Role-playing AI agent orchestration |
+| [CrewAI](https://github.com/joaomdmoura/crewai) | 60k+ | Role-playing AI agent orchestration |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | 43k+ | Stateful multi-actor LLM applications |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | 71k+ | Multi-agent framework for software development |
 | [ChatDev](https://github.com/OpenBMB/ChatDev) | 34k+ | Communicative agents for software development |
@@ -45,7 +45,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [Swarm](https://github.com/openai/swarm) | 22k+ | Lightweight multi-agent orchestration |
 | [AG2](https://github.com/ag2ai/ag2) | 5k+ | Open-source AgentOS (formerly AutoGen) |
 | [Phidata](https://github.com/phidatahq/phidata) | 43k+ | Build AI Agents with memory |
-| [PydanticAI](https://github.com/pydantic/pydantic-ai) | 20k+ | Agent framework built on Pydantic |
+| [PydanticAI](https://github.com/pydantic/pydantic-ai) | 21k+ | Agent framework built on Pydantic |
 | [Smolagents](https://github.com/huggingface/smolagents) | 30k+ | Hugging Face agent framework |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | 30k+ | Official OpenAI agent framework |
 | [Google ADK](https://github.com/google/adk-python) | 22k+ | Google Agent Development Kit |
@@ -55,7 +55,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | Name | Description |
 |------|-------------|
 | [AutoGen Studio](https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-studio) | 61k+ |
-| [CrewAI Studio](https://github.com/crewAIInc/crewAI) | 59k+ |
+| [CrewAI Studio](https://github.com/crewAIInc/crewAI) | 60k+ |
 | [AgentVerse](https://github.com/OpenBMB/AgentVerse) | 5k+ |
 | [Generative Agents](https://github.com/joonspk-research/generative_agents) | 22k+ |
 | [Excalidraw AI](https://github.com/excalidraw/excalidraw) | 134k+ |
@@ -64,8 +64,8 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Coding Agents
 | Name | Description |
 |------|-------------|
-| [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | 20k+ |
-| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | 90k+ |
+| [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | 21k+ |
+| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | 91k+ |
 | [Sweep](https://github.com/sweepai/sweep) | 8k+ |
 | [Aider](https://github.com/paul-gauthier/aider) | 49k+ |
 | [Cursor](https://www.cursor.sh/) | AI-first code editor |
@@ -90,8 +90,8 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Web Agents
 | Name | Description |
 |------|-------------|
-| [Browser Use](https://github.com/browser-use/browser-use) | 117k+ |
-| [Playwright](https://github.com/microsoft/playwright) | 97k+ |
+| [Browser Use](https://github.com/browser-use/browser-use) | 118k+ |
+| [Playwright](https://github.com/microsoft/playwright) | 98k+ |
 | [Puppeteer](https://github.com/puppeteer/puppeteer) | 96k+ |
 | [Selenium](https://github.com/SeleniumHQ/selenium) | 35k+ |
 | [LaVague](https://github.com/lavague-ai/LaVague) | 6k+ |
@@ -119,7 +119,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Agent Tools
 | Name | Description |
 |------|-------------|
-| [Composio](https://github.com/ComposioHQ/composio) | 30k+ |
+| [Composio](https://github.com/ComposioHQ/composio) | 31k+ |
 | [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) | Tool library for LangChain |
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | Native tool use in OpenAI |
 | [Anthropic Tool Use](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Tool use in Claude |
