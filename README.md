@@ -119,6 +119,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Agent Tools
 | Name | Description |
 |------|-------------|
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local CLI and MCP payment runtime for AI agents on macOS, with foreground owner approval |
 | [Composio](https://github.com/ComposioHQ/composio) | 31k+ |
 | [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) | Tool library for LangChain |
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | Native tool use in OpenAI |
