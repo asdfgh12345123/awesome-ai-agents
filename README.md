@@ -35,13 +35,13 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Frameworks
 | Name | Stars | Description |
 |------|-------|-------------|
-| [AutoGen](https://github.com/microsoft/autogen) | 61k+ | Multi-agent conversation framework by Microsoft |
+| [AutoGen](https://github.com/microsoft/autogen) | 62k+ | Multi-agent conversation framework by Microsoft |
 | [CrewAI](https://github.com/joaomdmoura/crewai) | 60k+ | Role-playing AI agent orchestration |
-| [LangGraph](https://github.com/langchain-ai/langgraph) | 43k+ | Stateful multi-actor LLM applications |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | 44k+ | Stateful multi-actor LLM applications |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | 71k+ | Multi-agent framework for software development |
 | [ChatDev](https://github.com/OpenBMB/ChatDev) | 35k+ | Communicative agents for software development |
 | [CAMEL](https://github.com/camel-ai/camel) | 18k+ | Communicative Agents for Mind Exploration |
-| [AgentScope](https://github.com/modelscope/agentscope) | 33k+ | Flexible multi-agent platform |
+| [AgentScope](https://github.com/modelscope/agentscope) | 34k+ | Flexible multi-agent platform |
 | [Swarm](https://github.com/openai/swarm) | 22k+ | Lightweight multi-agent orchestration |
 | [AG2](https://github.com/ag2ai/ag2) | 5k+ | Open-source AgentOS (formerly AutoGen) |
 | [Phidata](https://github.com/phidatahq/phidata) | 43k+ | Build AI Agents with memory |
@@ -54,18 +54,18 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Multi-Agent Systems
 | Name | Description |
 |------|-------------|
-| [AutoGen Studio](https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-studio) | 61k+ |
+| [AutoGen Studio](https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-studio) | 62k+ |
 | [CrewAI Studio](https://github.com/crewAIInc/crewAI) | 60k+ |
 | [AgentVerse](https://github.com/OpenBMB/AgentVerse) | 5k+ |
 | [Generative Agents](https://github.com/joonspk-research/generative_agents) | 22k+ |
-| [Excalidraw AI](https://github.com/excalidraw/excalidraw) | 134k+ |
+| [Excalidraw AI](https://github.com/excalidraw/excalidraw) | 135k+ |
 | [ChatArena](https://github.com/Farama-Foundation/ChatArena) | 2k+ |
 
 ## Coding Agents
 | Name | Description |
 |------|-------------|
 | [SWE-agent](https://github.com/princeton-nlp/SWE-agent) | 21k+ |
-| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | 91k+ |
+| [OpenDevin](https://github.com/All-Hands-AI/OpenHands) | 92k+ |
 | [Sweep](https://github.com/sweepai/sweep) | 8k+ |
 | [Aider](https://github.com/paul-gauthier/aider) | 50k+ |
 | [Cursor](https://www.cursor.sh/) | AI-first code editor |
@@ -90,8 +90,8 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Web Agents
 | Name | Description |
 |------|-------------|
-| [Browser Use](https://github.com/browser-use/browser-use) | 118k+ |
-| [Playwright](https://github.com/microsoft/playwright) | 98k+ |
+| [Browser Use](https://github.com/browser-use/browser-use) | 119k+ |
+| [Playwright](https://github.com/microsoft/playwright) | 99k+ |
 | [Puppeteer](https://github.com/puppeteer/puppeteer) | 96k+ |
 | [Selenium](https://github.com/SeleniumHQ/selenium) | 35k+ |
 | [LaVague](https://github.com/lavague-ai/LaVague) | 6k+ |
@@ -110,7 +110,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 ## Agent Memory
 | Name | Description |
 |------|-------------|
-| [Mem0](https://github.com/mem0ai/mem0) | 67k+ |
+| [Mem0](https://github.com/mem0ai/mem0) | 68k+ |
 | [Zep](https://github.com/getzep/zep) | 5k+ |
 | [LangMem](https://github.com/langchain-ai/langmem) | 2k+ |
 | [ChromaDB](https://github.com/chroma-core/chroma) | 30k+ |
@@ -123,7 +123,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [LangChain Tools](https://python.langchain.com/docs/integrations/tools/) | Tool library for LangChain |
 | [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling) | Native tool use in OpenAI |
 | [Anthropic Tool Use](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Tool use in Claude |
-| [MCP Servers](https://github.com/modelcontextprotocol/servers) | 91k+ |
+| [MCP Servers](https://github.com/modelcontextprotocol/servers) | 92k+ |
 | [Brave Search API](https://brave.com/search/api/) | Web search for agents |
 
 ## Tutorials
