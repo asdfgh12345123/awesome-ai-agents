@@ -125,6 +125,7 @@ Awesome AI Agents is a focused list for anyone exploring how AI agents are built
 | [Anthropic Tool Use](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) | Tool use in Claude |
 | [MCP Servers](https://github.com/modelcontextprotocol/servers) | 92k+ |
 | [Brave Search API](https://brave.com/search/api/) | Web search for agents |
+| [agent-qa](https://vostride.com) | Local web, Android and iOS QA for coding agents, with persistent memidex memory, validated self-improvement and step/screenshot evidence. FSL-1.1-ALv2; free permitted local software use, with model/infrastructure costs separate. |
 
 ## Tutorials
 - [Building AI Agents with LangChain](https://python.langchain.com/docs/modules/agents/)
